@@ -1,0 +1,143 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    
+  /*  background: cornsilk;*/
+}
+
+.main_wrap
+{
+    margin: 0 auto; 
+    padding-top: 100px;
+    
+    width: 1000px; 
+    height: 1000px;
+    
+    /*background: aquamarine; */
+}
+
+.left_wrap
+{
+    padding-left: 20px;
+    padding-right: 30px;
+    
+    width: 330px;
+    height: 340px;
+    
+    float: left;
+    
+    /*background: tomato;*/
+}
+
+.right_wrap
+{
+    padding-left: 30px;
+    padding-right: 20px;
+    
+    width: 570px;
+    
+    float: left;
+    
+   /* background: azure;*/
+    
+}
+
+.main_photo
+{
+    height: 340px;
+    width: 330px;
+    
+    border-radius: 10px;
+}
+
+.cite_text
+{
+    color: #848484;
+    margin-top: 130px;
+    margin-left: 60px;
+    font-size: 28px;
+    font-family: "Georgia";
+    font-style: italic;
+    text-align: left;
+    line-height: 1.5;
+
+   /* background-color: cyan;*/
+}
+
+.cite_auth
+{
+    /*background-color: lightcyan;*/
+    font-weight: : 600;
+    font-style: normal;
+    margin-left: 60px;
+}
+.quotes_img
+{
+    background-image: url("../images/quotes.png");
+    background-position: 30px 50px;
+    background-repeat: no-repeat;
+    
+}
+.top_50
+{
+    margin-top: 50px;
+}
+.main_head
+{
+    font-family: sans-serif;
+    font: "Trebuchet MS";
+    font-size: 48px;
+}
+.head_line
+{
+    border: none;
+    color: #577B93;
+    height: 6px;
+}
+.second_head
+{
+    font: "Noto Sans";
+    font-size: 36px;
+}
+.text_1
+{
+    font-family: sans-serif;
+    font: "Georgia";
+    font-size: 19px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    line-height: 23px;
+}
+.left_head
+{
+    font-family: sans-serif;
+    font: "Trebuchet MS";
+    font-size: 24px;
+    color: #577B93;
+}
+.top_bar
+{
+     background-color: white ;
+     margin-left: 370px;
+}
+.top_bar input
+{
+    background-color: white;
+    border: none;
+    color: #577B93;
+    font-size: 19px;
+    margin-right: 46px;
+    width: 140px;
+    height: 50px;
+}
+.top_bar input:hover{
+    background-color: #C1DBD7;
+}
+.second_wrap
+{
+    margin: 0 auto; 
+    width: 1349px;
+    height: 1041px;
+    background-color: #e0e0e0;
+}
